@@ -18,7 +18,7 @@ public class TypeCasting {
         intVal = (int)doubleVal;
         System.out.println(intVal); // .5가 사라짐
 
-        // 서로다은 타입끼리 연산시
+        // 서로다른 타입끼리 연산시
         // -> 용량이 큰 타입으로 자동형변환
         int kor = 80;
         int eng = 90;
