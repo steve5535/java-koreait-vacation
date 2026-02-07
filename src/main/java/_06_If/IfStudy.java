@@ -25,7 +25,7 @@ public class IfStudy {
             System.out.println("탑승 가능!");
         }
 
-        // 최종 연산결돠가 boolean이면 ok
+        // 최종 연산결과가 boolean이면 ok
         String sample = "Study java";
         if(sample.contains("java")){
             System.out.println("자바공부중이군요");
