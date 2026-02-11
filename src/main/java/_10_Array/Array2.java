@@ -52,7 +52,7 @@ public class Array2 {
             0x2004: 2
             0x2008: 3
          */
-        original[0] = 999; // 오리지낭릐 0번을 999로 수정
+        original[0] = 999; // 오리지날의 0번을 999로 수정
         System.out.println(original[0]); // 999
         System.out.println(copy1[0]); // 999
 
