@@ -6,8 +6,8 @@ public class Constant {
     // 작명법(국룰): 전부 대문자, 띄어쓰기는 "_"
     public static final int MAX_LEVEL = 18;
 
-    // 1. 상수이름으로 해당 값이 어떤 의미인지 표형
-    // 2. 여러 군데 사용되는 값을 한나의 변수로 관리
+    // 1. 상수이름으로 해당 값이 어떤 의미인지 표현
+    // 2. 여러 군데 사용되는 값을 하나의 변수로 관리
     public static final double DISCOUNT_RATE = 0.1;
     public static final int DISCOUNT_MIN = 50000;
 }
