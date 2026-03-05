@@ -51,7 +51,7 @@ public class SetMain {
 
         // 3. 차집합 - removeAll()
         Set<String> difference = new HashSet<>(names1);
-        difference.retainAll(names2); // 중복값만 제거
+        difference.removeAll(names2); // 중복값만 제거
 
         // 문자열.split() : 특정 문자열기준으로 분리해서 배열리턴
         String myStr1 = "my name is Son";
